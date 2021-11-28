@@ -1,0 +1,27 @@
+{
+  "name": "projekt-penzion",
+  "version": "1.0.0",
+  "description": "Povinný úkol pro kurz Staň se kóderkou od Czechitas.",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx @11ty/eleventy",
+    "serve": "npx @11ty/eleventy --serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Czechitas-Koderka-podklady/PROJEKT-Penzion.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Czechitas-Koderka-podklady/PROJEKT-Penzion/issues"
+  },
+  "homepage": "https://github.com/Czechitas-Koderka-podklady/PROJEKT-Penzion#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  },
+  "dependencies": {
+    "nunjucks": "^3.2.3"
+  }
+}
