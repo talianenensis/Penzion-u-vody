@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Czechitas-Koderka-podklady/PROJEKT-Penzion.git"
+    "url": "git+https://github.com/talianenensis/Penzion-u-vody.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Czechitas-Koderka-podklady/PROJEKT-Penzion/issues"
+    "url": "https://github.com/talianenensis/Penzion-u-vody/issues"
   },
-  "homepage": "https://github.com/Czechitas-Koderka-podklady/PROJEKT-Penzion#readme",
+  "homepage": "https://github.com/talianenensis/Penzion-u-vody.git#readme",
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1"
   },
