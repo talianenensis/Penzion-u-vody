@@ -1,7 +1,9 @@
 module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("images");
     eleventyConfig.addPassthroughCopy("css");
+},
 
+module.exports = function(eleventyConfig) {
     // ...necháme, co už v konfiguraci je, a přidáme:
     return {
       // možné formáty šablon
